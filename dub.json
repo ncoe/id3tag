@@ -1,0 +1,11 @@
+{
+    "name": "id3tag",
+    "authors": [
+        "Nathan R Coe"
+    ],
+    "dependencies": {
+        "dlangui": "~>0.9.169"
+    },
+    "description": "Experiment working with id3 tags",
+    "copyright": "Copyright © 2017, Nathan R Coe"
+}
